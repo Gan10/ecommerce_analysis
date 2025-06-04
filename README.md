@@ -1,4 +1,4 @@
-# 🛒 E-commerce Customer Segmentation with RFM Analysis
+#  E-commerce Customer Segmentation with RFM Analysis
 
 This project applies the RFM (Recency, Frequency, Monetary) framework to segment customers of a UK-based online retailer, based on transaction data from December 1, 2010, to December 9, 2011. By engineering key features and leveraging clustering algorithms, raw data is transformed into actionable customer profiles.
 
@@ -6,7 +6,7 @@ The objective is to enhance marketing effectiveness and boost sales by identifyi
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
 ### 1. Data Cleaning & Preprocessing
 - Removed missing values and duplicates.
