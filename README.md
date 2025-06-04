@@ -47,10 +47,3 @@ The cleaned and enriched datasets are ready for further use such as targeted cam
 ##  Dataset
 
 - Source: [Kaggle – E-commerce Data by Carrie1](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
-
----
-
-## Next steps : 
-
-- Develop a churn prediction model
-- Integrate results into Power BI or Tableau dashboards
