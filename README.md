@@ -39,7 +39,7 @@ Classic RFM metrics were combined with additional features to capture customer b
 ---
 
 
-The cleaned and enriched datasets are ready for further use such as targeted campaigns, lifetime value modeling, or churn prediction.
+The cleaned and enriched datasets are prepared for further applications, such as building dashboards or developing churn prediction models.
 
 
 ---
