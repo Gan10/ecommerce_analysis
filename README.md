@@ -44,6 +44,10 @@ The cleaned and enriched datasets are prepared for further applications, such as
 
 ---
 
+## Dashboard
+
+![Image](https://github.com/user-attachments/assets/4665a8f3-228a-4e91-889f-29607e81b7cc)
+
 ##  Dataset
 
 - Source: [Kaggle – E-commerce Data by Carrie1](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
