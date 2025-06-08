@@ -46,7 +46,9 @@ The cleaned and enriched datasets are prepared for further applications, such as
 
 ## Dashboard
 
-![Image](https://github.com/user-attachments/assets/4665a8f3-228a-4e91-889f-29607e81b7cc)
+![Image](https://github.com/user-attachments/assets/67db2f44-88c4-4adf-8cd8-5145ee3ce2a2)
+
+---
 
 ##  Dataset
 
